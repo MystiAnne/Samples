@@ -1,0 +1,56 @@
+= Title
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+// Ideally, titles are under 75 characters and include the most important words toward the beginning.
+// Use an active verb if possible, such as Create Profile or Build an API.
+
+// short description for a task topic: What will the customer do, and why is it useful to the customer?
+// If you are writing a task-of-task parent topic, use the map topic template.
+// Example: Anypoint Visualizer displays views of different aspects of an application network graph. Explore your application network from the graph: view multiple metrics, including throughput, response time, and errors for each node in your application network.
+
+== Prerequisites
+// use a prerequisites section if there's anything the customer must do before this task to be successful.
+// If there are a lot of prerequisites, this can be a separate topic.
+
+== Step One: Clean Your Feebleblitzer
+//If you have long-ish steps, you can group them into logical units (Step One: Set Up Your Org, Step Two: Create Users, etc.)
+//If you don't then instead of "Step One:", just use the title of the task
+// The last step should be a validation step--what tells the customer they've succeeded without error?
+
+//If the intro is different from the subtask in the step heading
+
+To clean the feebleblitzer:
+
+. First step
+. Second step
+. Third step
+
+== Step Two: Fuel Your Feebleblitzer
+
+To fuel the feebleblitzer:
+
+. First step
+. Second step
+. Third step
+
+== Step Three: Start Your Feebleblitzer
+
+To start the feebleblitzer:
+
+. First step
+. Second step
+. Third step
+
+Now you are ready to drive!
+
+== Next Steps
+// Create this optional section if there are tasks the user really should perform after this one.
+== See Also
+
+// Optional. Max of five links in most cases.
+// Use the topic title in [link-text] or modify it to make clear why a customer would want or need to read the topic.
+
+* xref:file-name.adoc[link-text]
+* _External Link_: http:www.url.com[link-text]
