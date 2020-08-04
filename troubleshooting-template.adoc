@@ -1,0 +1,32 @@
+= Troubleshooting Feature or Process Name
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+//Replace "Feature or Process Name" in title with the feature or process you are providing multiple troubleshooting tips for.
+
+//Replace this comment with a brief description of the scope of the troubleshooting hints or other helpful information.
+
+//Repeat Symptom-Cause-Resolution--Validation for each symptom or logical set of symptoms.
+
+== Symptom
+//Describe the symptom or logical set of symptoms.
+
+=== Cause
+// Briefly describe cause or causes (so resolution has context).
+
+=== Resolution
+//Describe resolution. Use numbered steps if more than one step. 
+//If customer has a choice of resolutions, clarify why they'd want to choose each.
+
+=== Validation
+//Describe how they know they've resolved the issue (brief test or screenshot of successful resolution).
+
+== See Also
+
+* xref:file-name.adoc[link-text]
+* _External Link_: http:www.url.com[link-text]
+//Add relevant links or delete See Also section
+
+//Delete all comments before publishing.
