@@ -17,3 +17,5 @@ Some of the content I've written from scratch. Some of them have been modified b
 * https://developer.okta.com/docs/reference/rest/
 
 * https://developer.salesforce.com/docs/atlas.en-us.200.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm
+
+Because CrowdStrike documentation is hidden behind a login, I can't share those samples.
