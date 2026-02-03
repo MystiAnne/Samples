@@ -1,6 +1,6 @@
 # Samples
 
-Some of the content I've written from scratch. Some of them have been modified by other writers after my departure, but remain substantially the same:
+These links lead to content I've written from scratch. Some samples have been modified by other writers after my departure, but remain substantially the same:
 
 * https://docs.mparticle.com/guides/platform-guide/usage/
 
